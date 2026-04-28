@@ -12,11 +12,11 @@
 
 Hi, I'm **Md. Numanur Rahman**, a developer and learner focused on building useful, real-world technology with **AI/ML, Python, JavaScript, TypeScript, React, and full-stack development**.
 
-I enjoy turning ideas into working systems — from data science notebooks and LLM/RAG experiments to React web applications, backend APIs, blockchain-based platforms, fire detection models, and selected mobile/IoT prototypes.
+I enjoy turning ideas into working systems — from data science notebooks and LLM/RAG experiments to React web applications, backend APIs, computer vision models, fire accident safety monitoring systems and selected mobile/IoT prototypes.
 
 ```txt
 Currently exploring: LLMs, RAG systems, machine learning, React apps, TypeScript, backend APIs
-Main focus: AI/ML, Python, JavaScript, TypeScript, React, and practical full-stack systems
+Main focus: AI/ML, LLMs, Python, JavaScript, TypeScript, React and practical full-stack systems
 ```
 
 ---
@@ -38,13 +38,12 @@ Main focus: AI/ML, Python, JavaScript, TypeScript, React, and practical full-sta
 </td>
 <td width="50%">
 
-### 🌐 Web, APIs & Blockchain
+### 🌐 Web, APIs & Full Stack
 
 - JavaScript / TypeScript web applications
 - React and Vite frontend development
 - Node.js / Express backend APIs
 - FastAPI practice and API fundamentals
-- Blockchain-based product authenticity and voting systems
 - Flutter/Dart mobile work as additional experience
 
 </td>
@@ -155,7 +154,7 @@ A TypeScript-based web project using React and Vite, built around the idea of bl
 <tr>
 <td width="50%">
 
-### 🔥 Fire Detection Using YOLO
+### 🔥 Fire Accident Safety System Using YOLO
 
 **Repo:** [fire-detection](https://github.com/Numanur/fire-detection)
 
@@ -188,7 +187,6 @@ A learning and practice repository covering data preprocessing, NumPy, Pandas, M
 - 🧬 [insightface-face-recognition](https://github.com/Numanur/insightface-face-recognition) — face recognition experiments using Python
 - 🪪 [AFIS-fingerprint-identification](https://github.com/Numanur/AFIS-fingerprint-identification) — ESP32 with R307 optical fingerprint sensor
 - ⚡ [fastapi-practice](https://github.com/Numanur/fastapi-practice) — FastAPI basics, path parameters, and query parameters
-- 📱 [PAC_APP_thesis](https://github.com/Numanur/PAC_APP_thesis) — Android/Flutter thesis application
 
 ---
 
@@ -217,7 +215,6 @@ TypeScript             ████████████████░░░
 React                  ████████████████░░░░░   80%
 Backend APIs           ██████████████░░░░░░░   70%
 Flutter/Dart           ████████████░░░░░░░░░   60%
-Blockchain             █████████████░░░░░░░░   65%
 ```
 
 ---
@@ -229,8 +226,8 @@ Blockchain             █████████████░░░░░░
 [![GitHub](https://img.shields.io/badge/GitHub-Numanur-181717?style=for-the-badge&logo=github)](https://github.com/Numanur)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8897--4614-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8897-4614)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanur011)
+[![Email](https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](noman.uftb@gmail.com)
 
 </div>
 
