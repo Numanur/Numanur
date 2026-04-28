@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Md.%20Numanur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT%20%7C%20Blockchain%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Md.%20Numanur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Python%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20React&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+intelligent+and+practical+software+systems;Exploring+LLMs%2C+RAG%2C+Machine+Learning+and+AI;Working+with+IoT%2C+Flutter%2C+Python+and+Blockchain;Always+learning%2C+building%2C+and+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+intelligent+and+practical+software+systems;Exploring+LLMs%2C+RAG%2C+Machine+Learning+and+AI;Working+with+Python%2C+JavaScript%2C+TypeScript+and+React;Always+learning%2C+building%2C+and+improving)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## 👋 About Me
 
-Hi, I'm **Md. Numanur Rahman**, a developer and learner focused on building useful, real-world technology with **AI, machine learning, IoT, blockchain, and full-stack development**.
+Hi, I'm **Md. Numanur Rahman**, a developer and learner focused on building useful, real-world technology with **AI/ML, Python, JavaScript, TypeScript, React, and full-stack development**.
 
-I enjoy turning ideas into working systems — from data science notebooks and LLM/RAG experiments to Flutter applications, backend APIs, blockchain-based platforms, fire detection models, and biometric/IoT prototypes.
+I enjoy turning ideas into working systems — from data science notebooks and LLM/RAG experiments to React web applications, backend APIs, blockchain-based platforms, fire detection models, and selected mobile/IoT prototypes.
 
 ```txt
-Currently exploring: LLMs, RAG systems, machine learning, blockchain apps, IoT systems
-Main focus: Building practical projects that connect software, intelligence, and real-world impact
+Currently exploring: LLMs, RAG systems, machine learning, React apps, TypeScript, backend APIs
+Main focus: AI/ML, Python, JavaScript, TypeScript, React, and practical full-stack systems
 ```
 
 ---
@@ -38,13 +38,14 @@ Main focus: Building practical projects that connect software, intelligence, and
 </td>
 <td width="50%">
 
-### 🌐 Apps, APIs & Blockchain
+### 🌐 Web, APIs & Blockchain
 
-- Flutter and Dart mobile apps
 - JavaScript / TypeScript web applications
+- React and Vite frontend development
 - Node.js / Express backend APIs
 - FastAPI practice and API fundamentals
 - Blockchain-based product authenticity and voting systems
+- Flutter/Dart mobile work as additional experience
 
 </td>
 </tr>
@@ -61,18 +62,18 @@ Main focus: Building practical projects that connect software, intelligence, and
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### AI / ML / Data
 
@@ -114,10 +115,10 @@ A research-oriented notebook project exploring corpus preparation, state prepara
 
 **Repo:** [firesense-project](https://github.com/Numanur/firesense-project)
 
-A multi-part fire sensing project combining Flutter, backend/API components, and Python-based logic for practical fire-related detection or monitoring workflows.
+A multi-part fire sensing project combining backend/API components, Python-based logic, and mobile app components for practical fire-related detection or monitoring workflows.
 
-**Focus:** IoT-style monitoring, mobile app, backend, Python  
-**Tech:** Dart, Flutter, Python, JavaScript, Express
+**Focus:** IoT-style monitoring, backend, Python, practical app integration  
+**Tech:** Python, JavaScript, Express, Dart, Flutter
 
 </td>
 </tr>
@@ -209,12 +210,14 @@ A learning and practice repository covering data preprocessing, NumPy, Pandas, M
 ## 🧭 Current Learning Direction
 
 ```txt
-AI/ML           ███████████████████░░   90%
-Python          ██████████████████░░░   85%
-Flutter/Dart    ████████████████░░░░░   80%
-JavaScript      ████████████████░░░░░   80%
-Backend APIs    ██████████████░░░░░░░   70%
-Blockchain      █████████████░░░░░░░░   65%
+AI/ML                  ███████████████████░░   90%
+Python                 ██████████████████░░░   85%
+JavaScript             █████████████████░░░░   82%
+TypeScript             ████████████████░░░░░   80%
+React                  ████████████████░░░░░   80%
+Backend APIs           ██████████████░░░░░░░   70%
+Flutter/Dart           ████████████░░░░░░░░░   60%
+Blockchain             █████████████░░░░░░░░   65%
 ```
 
 ---
