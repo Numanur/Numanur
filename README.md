@@ -226,8 +226,9 @@ Flutter/Dart           ████████████░░░░░░░
 [![GitHub](https://img.shields.io/badge/GitHub-Numanur-181717?style=for-the-badge&logo=github)](https://github.com/Numanur)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8897--4614-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8897-4614)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.-Numanur-Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanur011)
-[![Email](https://img.shields.io/badge/Email-Noman-UFTB-D14836?style=for-the-badge&logo=gmail&logoColor=white)](noman.uftb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Numanur%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanur011)
+
+[![Email](https://img.shields.io/badge/Email-noman.uftb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noman.uftb@gmail.com)
 
 </div>
 
